@@ -718,7 +718,7 @@ augroup phpSyntaxOverride
 augroup END
 
 hi User1 cterm=inverse ctermbg=114   ctermfg=238  guibg=red   guifg=blue
-hi User2 cterm=inverse ctermbg=226 ctermfg=black  guibg=226 guifg=black
+hi User2 cterm=inverse ctermbg=225 ctermfg=black  guibg=225 guifg=black
 hi User3 ctermbg=blue  ctermfg=green guibg=blue  guifg=green
 
 function! SubstituteHomePath()
