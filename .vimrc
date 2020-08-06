@@ -68,7 +68,7 @@ filetype plugin indent on    " required
 
 " ??????????? vundle / pathogen
 " Pathogen plugin installer
-" execute pathogen#infect() 
+" execute pathogen#infect()
 " ??????????? vundle / pathogen
 
 " Use the colorscheme from above
@@ -225,7 +225,7 @@ omap s :normal vs<CR>
 " start visual block with ctrl + b + b
 
 
-" remap ctrl-v to ctrl-shift-v 
+" remap ctrl-v to ctrl-shift-v
 " nnoremap <C-v><M> <C-v>
 
 " map <Leader> HERE"
@@ -718,7 +718,7 @@ augroup phpSyntaxOverride
 augroup END
 
 hi User1 cterm=inverse ctermbg=114   ctermfg=238  guibg=red   guifg=blue
-hi User2 cterm=inverse ctermbg=225 ctermfg=black  guibg=225 guifg=black
+hi User2 cterm=inverse ctermbg=226 ctermfg=black  guibg=Grey93 guifg=black
 hi User3 ctermbg=blue  ctermfg=green guibg=blue  guifg=green
 
 function! SubstituteHomePath()
