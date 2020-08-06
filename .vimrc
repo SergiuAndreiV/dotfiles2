@@ -778,5 +778,5 @@ set statusline+=%1*  "switch to User3 highlight
 " set statusline+=%b,0x%-8B\                   " current char
 set statusline+=%-10.(%l,%c%V%)\ %<%P        " offset
 
-color desert
+" color desert
 
