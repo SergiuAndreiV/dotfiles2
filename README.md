@@ -6,7 +6,11 @@
 https://jdhao.github.io/2019/01/17/tmux_plugin_management/
 
 ### Install Vim plugins from vim
-Inside vim execute `:PluginInstall`
+1. Set up Vundle ( https://github.com/VundleVim/Vundle.vim )  
+`git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
+
+1. Install Plugins:  
+Launch vim and run `:PluginInstall`
 
 ### ToDo
 
