@@ -15,5 +15,5 @@ Launch vim and run `:PluginInstall`
 ### ToDo
 
 - [ ]  configure .vimrc for light use ( essential plugins )
-    - [ ] to navigate seamlessly between vim and tmux splits add this plugin https://github.com/christoomey/vim-tmux-navigator
+    - [x] to navigate seamlessly between vim and tmux splits add this plugin https://github.com/christoomey/vim-tmux-navigator
 - [ ]  add Ansible script for setting and configuring dot files
