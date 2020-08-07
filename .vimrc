@@ -779,4 +779,5 @@ set statusline+=%1*  "switch to User3 highlight
 set statusline+=%-10.(%l,%c%V%)\ %<%P        " offset
 
 " color desert
+color monokai
 
