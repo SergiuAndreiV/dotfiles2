@@ -197,7 +197,8 @@ set smarttab
 set incsearch
 set ignorecase smartcase
 set laststatus=2  " Always show status line.
-set relativenumber
+" Relative line number from current block position"
+" set relativenumber
 set number
 set gdefault " assume the /g flag on :s substitutions to replace all matches in a line
 set autoindent " always set autoindenting on
