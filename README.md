@@ -9,6 +9,12 @@
 1. Install Plugins:  
 Launch vim and run `:PluginInstall`
 
+1. Copy monokai.vim color scheme to `~/.vim/` folder  
+From this repository run:
+    ```shell script
+    cp -a .vim/. ~/.vim/
+    ```
+
 ### Add Tmux plugin
 https://jdhao.github.io/2019/01/17/tmux_plugin_management/
 
