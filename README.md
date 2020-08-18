@@ -9,7 +9,7 @@
 1. Install Plugins:  
 Launch vim and run `:PluginInstall`
 
-1. Copy monokai.vim color scheme to `~/.vim/` folder  
+1. Copy `monokai.vim` color scheme to `~/.vim/` folder  
 From this repository run:
     ```shell script
     cp -a .vim/. ~/.vim/
