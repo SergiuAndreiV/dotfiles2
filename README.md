@@ -14,6 +14,21 @@ From this repository run:
     ```shell script
     cp -a .vim/. ~/.vim/
     ```
+   
+ ### Ansible configuration and installation
+1. First check pip that it is installed 
+     ```shell script
+    pip3 --version
+    ```
+
+    If we get an error we can install using `apt`
+     ```shell script
+    sudo apt install python3-pip
+    ```
+1. Install `ansible`
+    ```shell script
+    pip install ansible
+    ```
 
 ### Add Tmux plugin
 https://jdhao.github.io/2019/01/17/tmux_plugin_management/
