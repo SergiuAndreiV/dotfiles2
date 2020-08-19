@@ -29,6 +29,14 @@ From this repository run:
     ```shell script
     pip install ansible
     ```
+   or to install ansible on Ubuntu use this:
+   ```shell script
+    $ sudo apt update
+    $ sudo apt install software-properties-common
+    $ sudo apt-add-repository --yes --update ppa:ansible/ansible
+    $ sudo apt install ansible
+    ```
+   link to ansible documentation https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-ansible-on-ubuntu
 
 ### Add Tmux plugin
 https://jdhao.github.io/2019/01/17/tmux_plugin_management/
