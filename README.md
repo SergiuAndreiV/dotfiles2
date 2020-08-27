@@ -46,4 +46,4 @@ https://jdhao.github.io/2019/01/17/tmux_plugin_management/
 
 - [x]  configure .vimrc for light use ( essential plugins )
     - [x] to navigate seamlessly between vim and tmux splits add this plugin https://github.com/christoomey/vim-tmux-navigator
-- [ ]  add Ansible script for setting and configuring dot files
+- [ ]  add Ansible playbook for setting and configuring dot files
